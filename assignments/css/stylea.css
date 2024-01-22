@@ -1,0 +1,20 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+img {
+
+    height: 300px;
+    width: 500px;
+    padding-bottom: 20px
+
+}
+.division1{
+    display:flex ;
+    margin-bottom: 30px;
+
+}
+#main{
+    display: grid;
+}

@@ -1,0 +1,36 @@
+p{
+    font-size: 20px;
+
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+img{
+    width: 600px;
+    height: 450px;
+
+}
+div{
+    
+    padding-left: 30px;
+    margin-right: 50px;
+}
+
+.division1{
+    background-color: antiquewhite;
+}
+.division2{
+    background-color: crimson;
+}
+.division3{
+    background-color: #4d4f4f;
+}
+#main{
+    background-color: cyan;
+    display: flex;
+    padding: 30px;
+}
+.imageparagraph{
+    display: flex;
+    padding-left: 60px;
+}

@@ -1,0 +1,57 @@
+form{
+    background-color: #520303;
+    color: white;
+    width: 55%;
+    height: 450px;
+    margin: auto;
+    padding-top: 30px;
+
+
+}
+#ema{
+    margin-left: 70px;
+}
+#nm{
+    margin-left: 70px;
+}
+#pasw{
+    margin-left: 50px;
+}
+#pn{
+    margin-left: 16px;
+}
+#zip{
+    margin-left: 50px;
+}
+#abt{
+    margin-left: 70px;
+}
+#lan{
+    margin-left: 50px;
+}
+.division1{
+    padding-right: 100px;
+}
+label {
+
+    width: 120px;
+    margin-left: 70px;
+
+
+
+}
+.heading1{
+    margin-left: 60px;
+
+}
+textarea{
+    margin-left: 60px;
+    align-content: space-around;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-left: 100px;
+    border-radius: 7px;
+}
+body{
+    background-color: #940c56;
+}

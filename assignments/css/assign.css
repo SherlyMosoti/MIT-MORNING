@@ -1,0 +1,41 @@
+form{
+    background-color: #10d5d5;
+    margin: auto;
+    width: 50%;
+    font-family: "Arial ";
+    padding-left: 10px;
+
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+
+}
+legend{
+    text-align: center;
+    font-family: "Arial Black s", serif;
+    text-underline: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+button {
+
+    height: 30px;
+    margin-left: 55px;
+    border-radius: 5px;
+    border: none;
+
+
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+input[type=text],input[type=date],select,textarea{
+    width: 300px;
+    height: 30px;
+}
+
+
+
+

@@ -1,0 +1,37 @@
+form{
+    background-color: azure;
+    margin: auto;
+    width: 40%;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 18px 10px gray;
+
+}
+legend{
+    text-align: center;
+    font-size: 25px;
+
+    font-weight: bold;
+    text-decoration-line: underline ;
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 100%;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding-left: 12px;
+}
+button{
+    width: 90px;
+    height: 40px;
+    background-color: darkviolet;
+    margin-left: 30px;
+    border-radius: 16px;
+
+}
+button:hover{
+    background-color: darkslategray;
+}
+body{
+    background-color: lavender;
+}
